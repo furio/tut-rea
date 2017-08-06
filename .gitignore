@@ -73,3 +73,5 @@ build/Release
 
 # dotenv environment variables file
 .env
+
+*.snap
